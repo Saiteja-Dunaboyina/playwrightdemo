@@ -1,0 +1,24 @@
+{
+    "username" : "Admin",
+    "employeeRole" : "Admin",
+    "employeeName" : "Monkey test Luffy",
+    "sideBar" :[
+        "Admin",
+        "PIM",
+        "Leave",
+        "Time",
+        "Recruitment",
+        "My Info",
+        "Performance",
+        "Dashboard",
+        "Directory",
+        "Claim",
+        "Buzz"
+    ],
+    "firstname" : "Harry",
+    "lastname" : "Potter",
+    "user" : "harrypotter",
+    "password" : "Harry123",
+    "fullname" : "Harry Potter"
+}
+
